@@ -1,0 +1,32 @@
+.table{
+    border: solid 1px;
+    background: linear-gradient(rgb(141, 92, 92),rgb(104, 168, 104));
+    width: 150px;
+    text-align: center;
+    vertical-align: middle;
+}
+body{
+    background-color: aqua;
+    font-size: 20px;
+    color: blue;
+}
+input{
+    color: blueviolet;
+    border-radius: 5%;
+    height: 20px;
+    background-color: rgb(175, 144, 144);
+    font-size: 18px;
+    width: 300px;
+    text-align: center;
+}
+button{
+    background-color: brown;
+    height: 30px;
+    font-size: large;
+    border-radius: 10%;
+    width: 100px;
+    position: absolute;
+    left: 110px;
+}
+
+    
